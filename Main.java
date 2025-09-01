@@ -3,14 +3,14 @@ public class Main {
    *
    * 1 - Executor
    * 2 - ExecutorService
-   * 3- ScheduledExecutorService
+   * 3 - ScheduledExecutorService
    * 4 - Future
    * 5 - CountDownLatch
    * 6 - CyclicBarrier
-   * Semaphore
-   * ThreadFactory
-   * BlockingQueue
-   * DelayQueue
+   * 7-  Semaphore
+   * 8 - ThreadFactory
+   * 9 - BlockingQueue
+   * 10- DelayQueue
    * Locks
    * Phaser
    */
