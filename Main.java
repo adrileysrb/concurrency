@@ -11,7 +11,7 @@ public class Main {
    * 8 - ThreadFactory
    * 9 - BlockingQueue
    * 10- DelayQueue
-   * Locks
+   * 11- Locks
    * Phaser
    */
 
@@ -31,6 +31,10 @@ public class Main {
    */
 
   static public void main(String... args) {
+    if(1 <> 2) {}
+  }
 
+   static final  private String println() {
+    return null;
   }
 }
